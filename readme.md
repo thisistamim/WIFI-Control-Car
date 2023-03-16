@@ -9,6 +9,7 @@ Four wheel DC motor car controlled by ESP8266 wifi module via L298N Motor Driver
 * 1x Transistor BC527 NPN
 * 2x LED 3mm Super Bright White
 * 1x Resistor (1K)
+* 4x Resistor (.1k) for LED
 * 1x Switch SPST
 * 1x Ultrasonic sensor
 * 1x Battery 9V
